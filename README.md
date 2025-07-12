@@ -1,5 +1,16 @@
-<h1 align="center">Halo 👋, saya Rifqi Ahmad Firdaus</h1>
-<h3 align="center">💻 Siswa SMKN 43 | Web Developer | Juara 2 LKS Jakarta Selatan</h3>
+<!-- Banner Nama -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Halo%2C+saya+Rifqi+Ahmad+Firdaus;Web+Developer+%7C+SMKN+43;Juara+2+LKS+Jakarta+Selatan" alt="Typing Banner" />
+</p>
+
+<!-- GIF Animasi -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400"/>
+</p>
+
+---
+
+<h3 align="center">💻 Siswa SMKN 43 | Web Developer</h3>
 
 <p align="center">
   <a href="mailto:yp14yj@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -36,7 +47,7 @@ Saya senang membangun proyek yang kreatif, fungsional, dan rapi.
 ---
 
 ### ✨ Quote Favorit
-> *"Code is poetry."* – Master Rifqi 💠
+> *"Code is poetry."* – Rifqi Ahmad Firadus 💠
 
 ---
 
