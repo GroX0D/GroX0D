@@ -1,6 +1,6 @@
 <!-- Banner Nama -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Halo%2C+saya+Rifqi+Ahmad+Firdaus;Web+Developer+%7C+SMKN+43;Juara+2+LKS+Jakarta+Selatan" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Halo%2C+saya+Rifqi+Ahmad+Firdaus;Web+Developer;" alt="Typing Banner" />
 </p>
 
 <!-- GIF Animasi -->
