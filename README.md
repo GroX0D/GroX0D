@@ -51,9 +51,24 @@ Saya senang membangun proyek yang kreatif, fungsional, dan rapi.
 
 ---
 
-### 🌐 Hubungi Saya
-- 📧 Email: [yp14yj@gmail.com](mailto:yp14yj@gmail.com)
-- 🌍 Portofolio: [GroX0D.github.io/portofolio-rifqi](https://GroX0D.github.io/portofolio-rifqi)
+### 🌐 Hubungi Saya & Sosial Media
+
+<p align="left">
+  📧 Email: <a href="mailto:yp14yj@gmail.com">yp14yj@gmail.com</a><br>
+  🌍 Portofolio: <a href="https://GroX0D.github.io/portofolio-rifqi" target="_blank">GroX0D.github.io/portofolio-rifqi</a>
+</p>
+
+<p align="left">
+  <a href="https://www.instagram.com/chinasnn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.tiktok.com/@chinasnn" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://www.roblox.com/users/2983060683/profile" target="_blank">
+    <img src="https://img.shields.io/badge/Roblox-D22B2B?style=flat&logo=roblox&logoColor=white" alt="Roblox">
+  </a>
+</p>
 
 ---
 
