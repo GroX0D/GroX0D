@@ -1,8 +1,3 @@
-<!-- Banner Visual -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/banner.svg" alt="Banner Visual" />
-</p>
-
 <!-- Banner Name -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Rifqi+Ahmad+Firdaus;Web+Developer;" alt="Typing Banner" />
@@ -79,9 +74,10 @@ I enjoy building creative, functional, and clean projects.
 
 ### 🌐 Contact & Social Media
 <p align="left">
-  📧 Email: <a href="mailto:yp14yj@gmail.com">yp14yj@gmail.com</a><br>
-  🌍 Portfolio: <a href="https://GroX0D.github.io/portofolio-rifqi" target="_blank">GroX0D.github.io/portofolio-rifqi</a>
-</p>
+  <a href="mailto:yp14yj@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=ffffff" alt="Gmail">
+</a><br>
+  </p>
 
 <p align="left">
   <a href="https://www.instagram.com/chinasnn" target="_blank">
