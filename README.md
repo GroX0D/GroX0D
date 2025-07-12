@@ -17,14 +17,7 @@
 
 <h3 align="center">💻 Student at SMKN 43 | Web Developer</h3>
 
-<p align="center">
-  <a href="mailto:yp14yj@gmail.com">
-    <img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" />
-  </a>
-  <a href="https://github.com/GroX0D">
-    <img src="https://img.shields.io/github/followers/GroX0D?style=for-the-badge&color=000000&labelColor=ffffff" />
-  </a>
-</p>
+
 
 ---
 
