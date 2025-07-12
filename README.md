@@ -45,15 +45,19 @@ I enjoy building creative, functional, and clean projects.
 
 ### 🛠️ Technologies I Use
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Laravel-000000?style=flat&logo=laravel&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/VSCode-000000?style=flat&logo=visual-studio-code&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-000000?style=flat&logo=tailwind-css&logoColor=ffffff"/>
-</p>
+  <a href="mailto:yp14yj@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=ffffff" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/chinasnn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=ffffff" alt="Instagram">
+  </a>
+  <a href="https://www.tiktok.com/@chinasnn" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=ffffff" alt="TikTok">
+  </a>
+  <a href="https://www.roblox.com/users/2983060683/profile" target="_blank">
+    <img src="https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=ffffff" alt="Roblox">
+  </a>
+  </p>
 
 ---
 
@@ -75,9 +79,18 @@ I enjoy building creative, functional, and clean projects.
 ### 🌐 Contact & Social Media
 <p align="left">
   <a href="mailto:yp14yj@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=ffffff" alt="Gmail">
-</a><br>
-  </p>
+    <img src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=ffffff" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/chinasnn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=ffffff" alt="Instagram">
+  </a>
+  <a href="https://www.tiktok.com/@chinasnn" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=ffffff" alt="TikTok">
+  </a>
+  <a href="https://www.roblox.com/users/2983060683/profile" target="_blank">
+    <img src="https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=ffffff" alt="Roblox">
+  </a>
+</p>
 
 <p align="left">
   <a href="https://www.instagram.com/chinasnn" target="_blank">
